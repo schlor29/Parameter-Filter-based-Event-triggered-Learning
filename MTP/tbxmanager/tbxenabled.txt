@@ -1,0 +1,3 @@
+mptdoc:3.0.4:all
+cddmex:1.0.1:pcwin64
+fourier:1.0:pcwin64
